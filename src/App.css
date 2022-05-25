@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+.deleteBtn {
+  border: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10px 100px 0 500px;
+}
+.label {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+.form-check {
+  display: flex;
+  align-items: baseline;
+}
+
+.checkValue {
+  display: flex;
+  flex-direction: row;
+}
+
+.todoItem {
+  margin: 0 20px 10px 20px;
+}
+
+.listButton {
+  display: flex;
+  align-items: baseline ;
+}
+
+.addField {
+  display: flex;
+  align-items: baseline;
+}
+.addField Button {
+  margin: 0 0 0 10px;
+}
+
+.todoList {
+  margin: 80px 0 0 30px;
+}
